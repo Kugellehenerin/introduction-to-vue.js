@@ -1,4 +1,4 @@
-# be.shopped
+# vue-shop
 
 ## Project setup
 ```
